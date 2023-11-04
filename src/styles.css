@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 100vh;
+  background-color: white;
+  color: black;
+}
+
+.bgDark {
+  background-color: black !important;
+  color: white !important;
+}
+
+h1,
+h2 {
+  margin-top: 0;
+}
+
+body {
+  margin: 0;
+}
